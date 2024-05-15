@@ -1,21 +1,16 @@
 {
     "name": "Lily Heltzer-Stiles",
-    "handle": "SenaThenu",
+    "handle": "@starshinelily",
     "profilePicture": "assets/profile-picture.png",
-    "description": "I create weird stuff!",
+    "description": "Tagline goes hereeeeeeee!",
     "backgroundImage": "assets/background.png",
     "linkIconFormat": "svg",
     "links": {
-        "LinkedIn": "https://linkedin.com/in/lilyheltzerstiles",
+        "Resume": "https://linkedin.com/in/lilyheltzerstiles",
         "Linkedin": "https://www.linkedin.com/in/senathenu/",
-        "Medium": "https://medium.com/@senathenu",
-        "X": "https://x.com/senathenu",
-        "Kaggle": "https://www.kaggle.com/senashthenuja",
-        "Hashnode": "https://senathenu.hashnode.dev/",
-        "Product Hunt": "https://www.producthunt.com/@senathenu",
-        "Reddit": "https://www.reddit.com/user/SenaThenu",
-        "Unsplash": "https://unsplash.com/@senathenu",
-        "Goodreads": "https://www.goodreads.com/user/show/136197280-senash",
-        "Patreon": "https://www.patreon.com/senathenu"
+        "Enteractive Solutons": "https://medium.com/@senathenu",
+        "Art": "https://x.com/senathenu",
+        "Astrology & Tarot": "https://www.kaggle.com/senashthenuja",
+        "Music": "https://senathenu.hashnode.dev/",
     }
 }
